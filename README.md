@@ -5,18 +5,10 @@
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on Zomato data to uncover trends and patterns in in restaurant finding. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
 
-![]()
+![](https://github.com/Saswati-18/EDA-Zomato_dataset/blob/main/zomato.jpg)
 
 ---
 
-## Objective
-The goal of this project is to:
-1. Analyze **room t, prices, and availability** across different neighborhoods.
-2. Understand **host behavior** and listing patterns.
-3. Detect potential **outliers** in prices.
-4. Provide recommendations for guests and hosts based on insights.
-
----
 ## Objective
 The goal of this project is to:
 1.Analyze **cost for two, online order, and table booking options** across different restaurant.
